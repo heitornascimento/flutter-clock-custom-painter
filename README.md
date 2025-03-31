@@ -1,5 +1,5 @@
 # flutter-clock-custom-painter
-Functional Clock using Customer Painter
+Functional Clock using Custom Painter
 
 Based on this gist: https://gist.github.com/afzalali15/6d5c485eb6a5f64116f35a0360eea94f
 
